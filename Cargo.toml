@@ -1,0 +1,6 @@
+[package]
+name = "RustyCompileford"
+version = "0.1.0"
+authors = ["Noah H. <turing.thesis@gmail.com>"]
+
+[dependencies]
